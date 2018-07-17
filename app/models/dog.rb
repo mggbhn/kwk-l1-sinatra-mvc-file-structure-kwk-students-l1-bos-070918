@@ -12,8 +12,8 @@ class Dog
    
   end 
   
-  # def all
-  # @@Array
-  # end
+  def all
+  @@Array
+  end
   
 end
