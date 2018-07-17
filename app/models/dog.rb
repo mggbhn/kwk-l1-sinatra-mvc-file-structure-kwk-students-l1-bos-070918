@@ -8,7 +8,7 @@ class Dog
     @name = name 
     @breed = breed
     @age = age 
-    @@array << all
+    @@Array << all
    
   end 
   
