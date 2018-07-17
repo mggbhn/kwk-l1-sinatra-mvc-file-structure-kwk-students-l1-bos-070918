@@ -17,3 +17,5 @@ class Dog
   end
   
 end
+
+pluto = Dog.new("Pluto",13,"hound")
