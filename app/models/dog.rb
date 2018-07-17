@@ -6,8 +6,9 @@ class Dog
     @breed = breed
     @age = age 
   end 
+  
   def all
-    @initialize = []
+    
   end 
   
 end
