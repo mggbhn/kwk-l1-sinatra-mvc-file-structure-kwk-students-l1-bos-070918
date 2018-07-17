@@ -1,7 +1,7 @@
 class Dog 
-  attr_accessor :name,:breed,:age, :array 
+  attr_accessor :name,:breed,:age, :Array 
   
-  @@array = []
+  @@Array = []
   
   
   def initialize(name,breed,age)
@@ -13,7 +13,7 @@ class Dog
   end 
   
   def all
-   @@array
+   @@Array
   end
   
 end
