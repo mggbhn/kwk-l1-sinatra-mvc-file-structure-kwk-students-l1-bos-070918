@@ -8,8 +8,11 @@ class Dog
     @name = name 
     @breed = breed
     @age = age 
-    @@array.push(name)
+   
   end 
   
+  def all
+    @@array << (initialize)
+  end
   
 end
