@@ -12,7 +12,7 @@ class Dog
   end 
   
   def all
-    @@array << (initialize)
+    @@array << initialize
   end
   
 end
