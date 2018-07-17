@@ -10,7 +10,7 @@ class ApplicationController < Sinatra::Base
   end
   
   get '/KarliesKubs' do
-    erb :KarliesKub 
+    erb :KarliesKubs
   end 
   
 end
