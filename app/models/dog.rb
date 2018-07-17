@@ -12,7 +12,7 @@ class Dog
    
   end 
   
-  def all
+  def self.all
   @@dog_array
   end
   
