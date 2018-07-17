@@ -5,11 +5,11 @@ class Dog
     @name = name 
     @breed = breed
     @age = age 
-    @array = []
+    @@array = []
   end 
   
   def all
-    @array.push(initialize)
+    @@array.push()
   end 
   
 end
