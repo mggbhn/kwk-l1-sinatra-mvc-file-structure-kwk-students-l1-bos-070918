@@ -9,7 +9,7 @@ class Dog
   end 
   
   def all
-    
+    @array.push(initialize)
   end 
   
 end
