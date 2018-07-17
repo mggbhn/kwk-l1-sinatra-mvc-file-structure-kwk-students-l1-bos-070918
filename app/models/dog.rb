@@ -13,7 +13,7 @@ class Dog
   end 
   
   def all
-  @@Array
+  @@dog_array
   end
   
 end
